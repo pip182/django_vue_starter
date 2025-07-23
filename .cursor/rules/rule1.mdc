@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+This is a reusable template using django 5 for the backend and vue 3 + quasar + scss for the frontend. Uses Django REST for Api and use native fetch on the frontend.
+run.sh to handles starting/stopping of frontend and backend.
+local variables are stored in .env file.
